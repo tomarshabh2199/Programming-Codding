@@ -1,9 +1,7 @@
 # PROGRAMMING-CODDING
-COMPETITIVE CODES OF HACAKERRANK AND OTHERS
-\\
+#COMPETITIVE CODES OF HACAKERRANK AND OTHERS
 
-  
-   #include <stdio.h>
+#include <stdio.h>
 
 int main(){
   int number_of_elements;

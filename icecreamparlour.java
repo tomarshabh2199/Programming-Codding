@@ -11,7 +11,6 @@ public class Solution {
     // Complete the icecreamParlor function below.
     static int[] icecreamParlor(int m, int[] arr) {
 
-
     }
 
     private static final Scanner scanner = new Scanner(System.in);
